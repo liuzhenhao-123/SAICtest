@@ -1,13 +1,13 @@
 # 本行是注释
 
 lzh/fekwf
-!okok.accdb
+!lzh/fekwf/okok.accdb
 
 lihualing
 .liulidong
 ShangHai
 
-HNU/.*txt
+HNU/*.txt
 *.py
 SAIC.pub
 
