@@ -1,0 +1,13 @@
+conda list
+conda env list
+
+conda activate xxx
+
+conda create -n xxx python=2.7 numpy=1.9
+conda remove -n xxx --all
+
+conda info
+conda config --add channels xxx
+
+
+conda env export > environment.yaml
